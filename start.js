@@ -1,2 +1,2 @@
 var EyePatch = require('./');
-EyePatch();
+EyePatch();a
